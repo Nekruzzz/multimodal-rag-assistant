@@ -1,0 +1,1 @@
+Line chart of soil moisture over seven days. Moisture drops below the 30 percent irrigation threshold on day five and recovers after irrigation on day six.

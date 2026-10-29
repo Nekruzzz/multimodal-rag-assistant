@@ -1,0 +1,11 @@
+langchain-core>=0.3
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+llama-index-core>=0.12
+faiss-cpu>=1.8
+pillow>=10.0
+pytest>=8.0
+# Optional, only for real models / LLM answers:
+# sentence-transformers   (semantic embeddings from Hugging Face)
+# transformers            (automatic image captioning)
+# langchain-anthropic     (--llm anthropic)
